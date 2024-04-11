@@ -41,9 +41,9 @@ const CONFIG = {
           link: '',
         },
         {
-          title: '',
+          title: 'Research Experience for Undergraduates',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Applied to and accepted a Summer 2023 Internship at California State University, San Marcos',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -77,7 +77,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://tvanlaar.github.io/pdfs/JMandeCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://jmande1.github.io/pdfs/JMandeCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PCR', 'Bioinformatics', 'Tutoring', 'Genome Assembly', 'Genome Annotationi', 
