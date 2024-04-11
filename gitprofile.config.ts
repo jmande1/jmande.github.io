@@ -80,22 +80,22 @@ const CONFIG = {
       'https://tvanlaar.github.io/pdfs/JMandeCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PCR', 'Bioinformatics', 'Teaching'
+    'PCR', 'Bioinformatics', 'Tutoring', 'Genome Assembly', 'Genome Annotationi', 
   ],
   experiences: [
     {
-      company: 'CSU Stanislaus',
-      position: 'Assistant Professor',
-      from: 'August 2022',
+      company: 'Calfornia State University, Stanislaus',
+      position: 'Supplemental Instruction Leader',
+      from: 'January 2022',
       to: 'Present',
-      companyLink: 'https://www.csustan.edu',
+      companyLink: 'https://www.csustan.edu/learning-commons',
     },
     {
-      company: 'CSU Fresno',
-      position: 'Assistant/Associate Professor',
-      from: 'August 2015',
-      to: 'August 2022',
-      companyLink: 'https://www.fresnostate.edu',
+      company: 'CSU Stanislaus',
+      position: 'Peer Tutor',
+      from: 'November 2022',
+      to: 'Present',
+      companyLink: 'https://www.csustan.edu/learning-commons',
     },
   ],
   certifications: [
