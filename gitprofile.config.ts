@@ -71,7 +71,7 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://jmande.github.io',
+    website: 'https://jmande1.github.io',
     phone: '',
     email: 'jmande1@csustan.edu',
   },
@@ -80,7 +80,7 @@ const CONFIG = {
       'https://jmande1.github.io/pdfs/JMandeCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PCR', 'Bioinformatics', 'Tutoring', 'Genome Assembly', 'Genome Annotationi', 
+    'PCR', 'Bioinformatics', 'Tutoring', 'Genome Assembly', 'Genome Annotation', 
   ],
   experience: [
     {
