@@ -91,7 +91,7 @@ const CONFIG = {
       companyLink: 'https://www.csustan.edu/learning-commons',
     },
     {
-      company: 'CSU Stanislaus',
+      company: 'California State University, Stanislaus',
       position: 'Peer Tutor',
       from: 'November 2022',
       to: 'Present',
