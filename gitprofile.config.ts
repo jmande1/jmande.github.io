@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'Applied to and accepted a Summer 2023 Internship at California State University, San Marcos',
           imageUrl:
-            'https://photos.fife.usercontent.google.com/pw/AP1GczNfda_ACAaX2kPhdWwLBhybDwzvaARFSjm6UORsB9ZLgGmBf3FNukvl=w869-h869-s-no-gm?authuser=3',
+            'https://github.com/jmande1/jmande1.github.io/blob/main/pdf/REULogo.png',
           link: 'https://csusmbioreu.weebly.com/blog',
         },
       ],
