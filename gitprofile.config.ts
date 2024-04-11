@@ -104,6 +104,13 @@ const CONFIG = {
       to: 'May 2023',
       companyLink: 'https://www.csustan.edu/events/stem-ambassador-recruitment',
     },
+    {
+      company: 'California State University, San Marcos',
+      position: 'Undergraduate Researcher',
+      from: 'June 2023',
+      to: 'August 2023',
+      companyLink: 'https://csusmbioreu.weebly.com/blog',
+    },
   ],
   certifications: [
     {
