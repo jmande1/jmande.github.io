@@ -38,7 +38,7 @@ const CONFIG = {
             'Presented at the CSUBIOTECH conference on the poster: Investigating the role of transcription on CCTG large-scale contractions',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://www.calstate.edu/impact-of-the-csu/research/csubiotech/symposium/Pages/2024-Symposium-Poster-Listing.aspx#InplviewHash0cd0aadb-9bd1-46b4-bfc2-75fb1b9ad21b=FilterField1%3DCampus-FilterValue1%3DCalifornia%20State%20University%2C%20Stanislaus-FilterField2%3DPosterCategory-FilterValue2%3DMolecular%20Biology%20(Include%20Regulation%20and%20Genomics)',
+          link: '',
         },
         {
           title: '',
