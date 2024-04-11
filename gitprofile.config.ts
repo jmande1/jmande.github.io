@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['jmande1/bioinformatics', 'jmande1/AwesomeSauce'],
+        projects: ['jmande1/Bioinformatics', 'jmande1/AwesomeSauce'],
       },
     },
     external: {
