@@ -82,7 +82,7 @@ const CONFIG = {
   skills: [
     'PCR', 'Bioinformatics', 'Tutoring', 'Genome Assembly', 'Genome Annotation', 
   ],
-  experience: [
+  experiences: [
     {
       company: 'Calfornia State University, Stanislaus',
       position: 'Supplemental Instruction Leader',
@@ -114,13 +114,13 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: '',
+      body: '',
+      year: '',
+      link: '',
     },
   ],
-  educations: [
+  education: [
     {
       institution: 'California State University, Stanislaus',
       degree: 'B.S. Biological Sciences',
