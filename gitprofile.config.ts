@@ -77,7 +77,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://jmande1.github.io/pdfs/JMandeCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/jmande1/jmande1.github.io/raw/main/pdf/JMandeCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PCR', 'Bioinformatics', 'Tutoring', 'Genome Assembly', 'Genome Annotation', 
