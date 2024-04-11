@@ -82,7 +82,7 @@ const CONFIG = {
   skills: [
     'PCR', 'Bioinformatics', 'Tutoring', 'Genome Assembly', 'Genome Annotationi', 
   ],
-  experiences: [
+  STEM,Outreach: [
     {
       company: 'Calfornia State University, Stanislaus',
       position: 'Supplemental Instruction Leader',
@@ -96,6 +96,13 @@ const CONFIG = {
       from: 'November 2022',
       to: 'Present',
       companyLink: 'https://www.csustan.edu/learning-commons',
+    },
+    {
+      company: 'California State University, Stanislaus',
+      position: 'STEM Ambassador Internship',
+      from: 'March 2023',
+      to: 'May 2023',
+      companyLink: 'https://www.csustan.edu/events/stem-ambassador-recruitment',
     },
   ],
   certifications: [
