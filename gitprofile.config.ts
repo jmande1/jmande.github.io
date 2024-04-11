@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'Applied to and accepted a Summer 2023 Internship at California State University, San Marcos. For 10 weeks, I rigorously participated in research with Dr. Jane Kim, investigating the roles of transcription and DNA repair on DNA repeat CCTG large-scale contractions.',
           imageUrl:
-            'https://github.com/jmande1/jmande1.github.io/blob/main/pdf/REULogo.png',
+            'https://github.com/jmande1/jmande1.github.io/blob/main/pdf/png2pdf.jpg',
           link: 'https://csusmbioreu.weebly.com/blog',
         },
       ],
