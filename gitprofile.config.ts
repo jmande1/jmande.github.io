@@ -37,8 +37,8 @@ const CONFIG = {
           description:
             'Presented at the CSUBIOTECH conference on the poster: Investigating the role of transcription on CCTG large-scale contractions.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: '',
+            'https://github.com/jmande1/jmande1.github.io/raw/main/pdf/CSUBIOTECH%20Logo%20Design%20Concept.jpg',
+          link: 'https://www.calstate.edu/impact-of-the-csu/research/csubiotech/symposium/Pages/about-us.aspx',
         },
         {
           title: 'Research Experience for Undergraduates',
