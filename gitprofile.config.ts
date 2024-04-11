@@ -81,7 +81,7 @@ const CONFIG = {
   },
   skills: [
     'PCR', 'Bioinformatics', 'Tutoring', 'Genome Assembly', 'Genome Annotation', 
-  },
+  ],
   experience: [
     {
       company: 'Calfornia State University, Stanislaus',
