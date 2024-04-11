@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['jmande1/bioinformatics', 'jmande1/AwesomeSauce], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['jmande1/bioinformatics', 'jmande1/AwesomeSauce],
       },
     },
     external: {
@@ -77,7 +77,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://tvanlaar.github.io/pdfs/VanLaarCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://tvanlaar.github.io/pdfs/JMandeCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PCR', 'Bioinformatics', 'Teaching'
