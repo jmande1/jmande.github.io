@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'CSUBIOTECH',
           description:
-            'Presented at the CSUBIOTECH conference on the poster: Investigating the role of transcription on CCTG large-scale contractions',
+            'Presented at the CSUBIOTECH conference on the poster: Investigating the role of transcription on CCTG large-scale contractions.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: '',
@@ -43,7 +43,7 @@ const CONFIG = {
         {
           title: 'Research Experience for Undergraduates',
           description:
-            'Applied to and accepted a Summer 2023 Internship at California State University, San Marcos',
+            'Applied to and accepted a Summer 2023 Internship at California State University, San Marcos. For 10 weeks, I rigorously participated in research with Dr. Jane Kim, investigating the roles of transcription and DNA repair on DNA repeat CCTG large-scale contractions.',
           imageUrl:
             'https://github.com/jmande1/jmande1.github.io/blob/main/pdf/REULogo.png',
           link: 'https://csusmbioreu.weebly.com/blog',
